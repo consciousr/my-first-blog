@@ -1,0 +1,190 @@
+﻿Diagnose log at 2024-01-12T23:09:27Z
+
+AppPath: /usr/local/bin/git-credential-manager
+InstallDir: /usr/local/share/gcm-core/
+Version: 2.4.1
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Linux
+OSVersion: Debian GNU/Linux 12 (bookworm)
+Reading environment variables... OK
+ Variables:
+KONSOLE_DBUS_SESSION=/Sessions/1
+SHELL_SESSION_ID=6d6ffb6118ba474ba5479bcfc72d63e7
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+XDG_SEAT=seat0
+XAUTHORITY=/home/conscious/.Xauthority
+XCURSOR_THEME=Sweet-cursors
+_=/usr/local/bin/git-credential-manager
+SSH_AGENT_PID=1178
+COLORTERM=truecolor
+DESKTOP_SESSION=plasma
+LOGNAME=conscious
+XDG_SESSION_TYPE=x11
+XDG_SESSION_CLASS=user
+PROFILEHOME=
+XCURSOR_SIZE=24
+KONSOLE_DBUS_WINDOW=/Windows/1
+LANGUAGE=
+SSH_AUTH_SOCK=/tmp/ssh-XXXXXXca4MER/agent.1140
+KDE_SESSION_VERSION=5
+KDE_SESSION_UID=1000
+SESSION_MANAGER=local/DellG5:@/tmp/.ICE-unix/1263,unix/DellG5:/tmp/.ICE-unix/1263
+XDG_SESSION_DESKTOP=KDE
+KONSOLE_VERSION=221203
+INVOCATION_ID=9e6301143be04604be7ae5a475da85ce
+KDE_FULL_SESSION=true
+XDG_RUNTIME_DIR=/run/user/1000
+SYSTEMD_EXEC_PID=1659
+JOURNAL_STREAM=8:27762
+DISPLAY=:0
+MANAGERPID=1109
+XDG_CURRENT_DESKTOP=KDE
+LANG=uk_UA.UTF-8
+GIT_TRACE2_PARENT_SID=06ec34ec-2037-4c60-9a63-fefec21a87e1
+QT_ACCESSIBILITY=1
+KONSOLE_DBUS_SERVICE=:1.108
+PWD=/home/conscious/envs/djangogirls
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/conscious/.gtkrc-2.0:/home/conscious/.config/gtkrc-2.0
+QT_SCREEN_SCALE_FACTORS=eDP-1=1.25;DP-1=1.25;HDMI-1=1.25;DP-2=1.25;HDMI-2=1.25;HDMI-1-0=1.25;
+SHELL=/bin/bash
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+XDG_CONFIG_DIRS=/home/conscious/.config/kdedefaults:/etc/xdg:/usr/share/desktop-base/kf5-settings
+XDG_SESSION_ID=3
+WINDOWID=115343373
+KDE_APPLICATIONS_AS_SCOPE=1
+GTK_MODULES=gail:atk-bridge
+XDG_VTNR=7
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+GTK_RC_FILES=/etc/gtk/gtkrc:/home/conscious/.gtkrc:/home/conscious/.config/gtkrc
+USER=conscious
+HOME=/home/conscious
+COLORFGBG=15;0
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+OLDPWD=/home/conscious/envs
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+TERM=xterm-256color
+SHLVL=1
+QTWEBENGINE_DICTIONARIES_PATH=/usr/share/hunspell-bdic/
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is '/tmp/'...
+Checking basic file I/O...
+Writing to temporary file '/tmp/cb8041a486d50d7e3d3512d3'... OK
+Reading from temporary file '/tmp/cb8041a486d50d7e3d3512d3'... OK
+Deleting temporary file '/tmp/cb8041a486d50d7e3d3512d3'... OK
+Testing IFileSystem instance...
+UserHomePath: /home/conscious
+UserDataDirectoryPath: /home/conscious/.gcm
+GetCurrentDirectory(): /home/conscious/envs/djangogirls
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:39531/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.39.2'
+Locating current repository... OK
+Git repository at '/home/conscious/envs/djangogirls/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:/home/conscious/.gitconfig	user.name=consciousr
+file:/home/conscious/.gitconfig	user.email=consciousreally@proton.me
+file:/home/conscious/.gitconfig	credential.helper=
+file:/home/conscious/.gitconfig	credential.helper=/usr/local/bin/git-credential-manager
+file:/home/conscious/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/consciousr/my-first-blog.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: False
+Exception:
+System.Exception: No credential store has been selected.
+
+Set the GCM_CREDENTIAL_STORE environment variable or the credential.credentialStore Git configuration setting to one of the following options:
+
+  secretservice : freedesktop.org Secret Service (requires graphical interface)
+  gpg           : GNU `pass` compatible credential storage (requires GPG and `pass`)
+  cache         : Git's in-memory credential cache
+  plaintext     : store credentials in plain-text files (UNSECURE)
+
+See https://aka.ms/gcm/credstores for more information.
+
+   at GitCredentialManager.CredentialStore.EnsureBackingStore()
+   at GitCredentialManager.CredentialStore.Remove(String service, String account)
+   at GitCredentialManager.Diagnostics.CredentialStoreDiagnostic.RunInternalAsync(StringBuilder log, IList`1 additionalFiles)
+   at GitCredentialManager.Diagnostics.Diagnostic.RunAsync()
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential...Deleting test credential...
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: /home/conscious/.local/.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: /home/conscious/.local/.IdentityService/msal.cache
+KeyringCollection: 
+KeyringSchemaName: 
+KeyringSecretLabel: 
+KeyringAttribute1: (,)
+KeyringAttribute2: (,)
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
