@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%n8nc10nsr+0#bio+z*z6uw=r2oa=0w4=*3rs&bd=sv%q_)r0i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', '192.168.1.2']
 
 
 # Application definition
@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'gjsite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'consciouswork',
+        'NAME': 'djangogirls',
         'USER': 'conscious',
-        'PASSWORD': '',
+        'PASSWORD': 'ThKpF_4822',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -129,4 +129,3 @@ STATIC_ROOT = BASE_DIR / 'static'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/'
-
