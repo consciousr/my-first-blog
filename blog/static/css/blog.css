@@ -18,11 +18,11 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Inter', cursive;
 }
 
 .date {
-    color: #6f6f6f;
+    color: #6f6f6fb3;
 }
 
 .save {
@@ -65,7 +65,7 @@ h4 {
 }
 
 .btn-secondary:hover {
-    color: #FFFFFF;
+    color: #ffffff;
     background-color: #C25100;
 }
 
