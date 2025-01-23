@@ -1,10 +1,10 @@
 anyascii==0.3.2
-asgiref==3.7.2
+asgiref==3.8.1
 beautifulsoup4==4.12.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
 defusedxml==0.7.1
-Django==5.0.1
+Django==5.1.5
 django-filter==24.2
 django-modelcluster==6.3
 django-permissionedforms==0.1

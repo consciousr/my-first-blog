@@ -51,7 +51,7 @@ class HomePage(Page):
 
 
 class BlogPage(Page):
-    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+   #author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     date = models.DateField("Post date")
     intro = models.CharField(max_length=250)
     text = RichTextField(blank=True)
