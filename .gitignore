@@ -40,3 +40,9 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+# Docer
+.dockerignore
+Dockerfile
+compose.yaml
+README.Docker.md
