@@ -74,9 +74,9 @@ h4 {
 }
 
 .address {
-    color: green;
+    color: rgb(207, 159, 249);
 }
 
-/* body { */
-    /* background-color: green !important; */
-/* } */
+body {
+    background-color: rgb(217, 238, 235) !important;
+}
